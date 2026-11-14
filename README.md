@@ -2,7 +2,9 @@
 
 A curated list of Android apps that use **Material Design 3**, **Material You**, and modern Material theming.
 
-The goal is to make well-designed Material apps easier to discover. The list focuses on the app's interface and theming—not only its functionality. Open-source projects are highlighted, and cross-platform apps are welcome when they have an Android version.
+## About
+
+Awesome Material Apps is an independent, community-driven directory for discovering Android applications that adopt Material Design 3 and Material You. It organizes apps by purpose, links to their primary project pages, and uses clear tags to describe design support. Open-source projects are highlighted, and cross-platform apps are welcome when they have an Android version.
 
 ## Contents
 
@@ -47,7 +49,7 @@ The goal is to make well-designed Material apps easier to discover. The list foc
 
 ## Password Managers
 
-- [OpenKey](https://github.com/OpenSelfHosting/OpenKey) — An open-source, self-hosted password manager with an encrypted offline vault and optional self-hosted sync. Its Flutter app uses Material 3. `MD` `FOSS`
+- [OpenKey](https://github.com/OpenSelfHosting/OpenKey) — An open-source, self-hosted password manager with an encrypted offline vault and optional self-hosted sync. Its Flutter app uses Material 3 ([theme implementation](https://github.com/OpenSelfHosting/OpenKey/blob/main/lib/src/core/theme/app_theme.dart)). `MD` `FOSS`
 
 ## Design Tags
 
