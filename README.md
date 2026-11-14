@@ -16,6 +16,11 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Icons & Wallpapers](#icons--wallpapers)
 - [Music Players](#music-players)
 - [Video Players](#video-players)
+- [Podcasts & Audiobooks](#podcasts--audiobooks)
+- [Media Servers](#media-servers)
+- [Gallery & Image Tools](#gallery--image-tools)
+- [Camera Apps](#camera-apps)
+- [Audio Recording](#audio-recording)
 - [Notes & Tasks](#notes--tasks)
 - [Calendars](#calendars)
 - [Clocks & Timers](#clocks--timers)
@@ -23,6 +28,18 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Developer Tools](#developer-tools)
 - [AI Assistants](#ai-assistants)
 - [Translators](#translators)
+- [App Management & Backup](#app-management--backup)
+- [ADB & System Tools](#adb--system-tools)
+- [Document Scanning & Reading](#document-scanning--reading)
+- [Education](#education)
+- [Finance](#finance)
+- [Home & Shopping](#home--shopping)
+- [VPN & Privacy](#vpn--privacy)
+- [Download Managers](#download-managers)
+- [Maps & Navigation](#maps--navigation)
+- [Smart Devices](#smart-devices)
+- [Emulators](#emulators)
+- [Security & Link Tools](#security--link-tools)
 - [File Managers](#file-managers)
 - [App Stores](#app-stores)
 - [Readers](#readers)
@@ -133,6 +150,127 @@ Awesome Material Apps is an independent, community-driven directory for discover
 ## Translators
 
 - [Translate You](https://github.com/you-apps/TranslateYou) — An open-source translation app. `MDY` `FOSS`
+
+## Podcasts & Audiobooks
+
+- [AntennaPod](https://github.com/AntennaPod/AntennaPod) — An open-source podcast manager and player. `MDY` `FOSS`
+- [PodAura](https://github.com/SkyD666/PodAura) — An open-source podcast app. `MDY` `FOSS`
+- [Voice](https://github.com/PaulWoitaschek/Voice) — An open-source audiobook player. `MDY` `FOSS`
+
+## Media Servers
+
+- [Findroid](https://github.com/jarnedemeulemeester/findroid) — A third-party Android client for Jellyfin. `MDY` `FOSS`
+- [StashFlow](https://github.com/Alchemist-Aloha/StashFlow) — An open-source app for managing a Stash media library. `MDY` `FOSS`
+
+## Gallery & Image Tools
+
+- [Photon Gallery](https://github.com/RomanK2311/Photon_Gallery) — An open-source photo gallery. `MD3E` `FOSS`
+- [Lavender Photos](https://github.com/kaii-lb/LavenderPhotos) — An open-source photo gallery. `MDY` `FOSS`
+- [Fossify Gallery](https://github.com/FossifyOrg/Gallery) — A privacy-friendly photo and video gallery. `MDY` `FOSS`
+- [PhotoPrism Gallery](https://github.com/Radiokot/photoprism-android-client) — An Android client for PhotoPrism. `MDY` `FOSS`
+- [Immich](https://github.com/immich-app/immich) — A self-hosted photo and video backup solution with a mobile app. `MDY` `FOSS`
+- [Image Toolbox](https://github.com/T8RIN/ImageToolbox) — An open-source image editing and processing toolkit. `MD3E` `FOSS`
+- [Easy Watermark](https://github.com/rosuH/EasyWatermark) — An open-source image watermarking app. `MDY` `FOSS`
+- [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) — An open-source tool for removing metadata from images. `MDY` `FOSS`
+
+## Camera Apps
+
+- [Fossify Camera](https://github.com/FossifyOrg/Camera) — An open-source camera app. `MDY` `FOSS`
+- [Libre Camera](https://github.com/iakmds/librecamera) — An open-source camera app. `MD` `FOSS`
+
+## Audio Recording
+
+- [Recording Studio](https://github.com/Leonidius20/RecordingStudio) — An open-source audio recording app. `MDY` `FOSS`
+- [Fossify Recorder](https://github.com/FossifyOrg/Voice-Recorder) — An open-source voice recorder. `MDY` `FOSS`
+- [Record You](https://github.com/you-apps/recordYou) — An open-source audio recorder. `MDY` `FOSS`
+- [MicYou](https://github.com/LanRhyme/MicYou) — An open-source microphone and recording app. `MD3E` `FOSS`
+- [Audire](https://github.com/alexmercerind/audire) — An open-source audio recording and listening utility. `MDY` `FOSS`
+
+## App Management & Backup
+
+- [App Manager](https://github.com/MuntashirAkon/AppManager) — An advanced open-source Android app manager. `MDY` `FOSS`
+- [Hail](https://github.com/aistra0528/Hail) — An open-source tool for disabling, hiding, and freezing Android apps. `MDY` `FOSS`
+- [Android DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) — An open-source Android app data backup utility. `MDY` `FOSS`
+- [Neo Backup](https://github.com/NeoApplications/Neo-Backup) — An open-source backup app for Android. `MDY` `FOSS`
+- [Restoid](https://github.com/hddq/restoid) — An open-source Android backup utility. `MDY` `FOSS`
+
+## ADB & System Tools
+
+- [aShell You](https://github.com/DP-Hridayan/ashell) — An Android shell interface for running ADB commands. `MDY` `FOSS`
+- [LogFox](https://github.com/F0x1d/LogFox) — An open-source Android log viewer. `MDY` `FOSS`
+- [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) — An open-source reboot and device utility. `MD` `FOSS`
+- [LibChecker](https://github.com/LibChecker/LibChecker) — An open-source app for inspecting libraries used by Android apps. `MDY` `FOSS`
+- [Data Monitor](https://github.com/itsdrnoob/DataMonitor) — An open-source network usage monitor. `MDY` `FOSS`
+
+## Document Scanning & Reading
+
+- [OSS Document Scanner](https://github.com/Akylas/OSS-DocumentScanner) — An open-source document scanning app. `MDY` `FOSS`
+- [Areada](https://github.com/iTsMe-Zen/Areada) — An open-source document and reading app. `MDY` `FOSS`
+- [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) — An open-source document reader. `MDY` `FOSS`
+
+## Education
+
+- [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp) — An open-source dictionary app. `MDY` `FOSS`
+- [Kanji Dojo](https://github.com/syt0r/Kanji-Dojo) — An open-source Japanese kanji learning app. `MD` `FOSS`
+- [Atomic - Periodic Table](https://github.com/JLindemann42/Atomic-Periodic-Table.Android) — An open-source periodic table app. `MDY` `FOSS`
+
+## Finance
+
+- [Cashiro](https://github.com/ritesh-kanwar/Cashiro) — An open-source personal finance tracker. `MD3E` `FOSS`
+- [Monekin](https://github.com/enrique-lozano/Monekin) — An open-source personal finance manager. `MDY` `FOSS`
+- [Waterfly III](https://github.com/dreautall/waterfly-iii) — An open-source mobile client for Firefly III. `MD` `FOSS`
+- [Expensy](https://github.com/mina-android/Expensy) — An open-source expense tracker. `MD` `FOSS`
+- [FossWallet](https://github.com/SeineEloquenz/fosswallet) — An open-source wallet and finance app. `MDY` `FOSS`
+
+## Home & Shopping
+
+- [Grocy](https://github.com/patzly/grocy-android) — An Android client for the Grocy household management system. `MDY` `FOSS`
+- [kitshn](https://github.com/aimok04/kitshn) — An open-source client for the Mealie recipe manager. `MDY` `FOSS`
+- [KitchenOwl](https://github.com/tombursch/kitchenowl) — An open-source shopping list and recipe manager. `MDY` `FOSS`
+- [FoodYou](https://github.com/maksimowiczm/FoodYou) — An open-source food and nutrition tracking app. `MDY` `FOSS`
+
+## VPN & Privacy
+
+- [sing-box](https://github.com/SagerNet/sing-box) — A universal proxy platform with an Android client. `MDY` `FOSS`
+- [Proton VPN](https://github.com/ProtonVPN/android-app) — An open-source VPN app. `MD` `FOSS`
+
+## Download Managers
+
+- [Seal](https://github.com/JunkFood02/Seal) — An open-source video and audio downloader interface for yt-dlp. `MDY` `FOSS`
+- [YTDLnis](https://github.com/deniscerri/ytdlnis) — An open-source media downloader based on yt-dlp. `MDY` `FOSS`
+- [qBitController](https://github.com/Bartuzen/qBitController) — An open-source remote client for qBittorrent. `MDY` `FOSS`
+- [Tremotesf](https://github.com/equeim/tremotesf-android) — An open-source remote client for Transmission. `MDY` `FOSS`
+- [qBittorrent Manager](https://github.com/Yash-Garg/qBittorrent-Manager) — An Android remote client for qBittorrent. `MD` `FOSS`
+
+## Maps & Navigation
+
+- [BTC Map](https://github.com/teambtcmap/btcmap-android) — An open-source map for discovering Bitcoin-accepting merchants. `MDY` `FOSS`
+- [Tridenta](https://github.com/Stypox/tridenta) — An open-source public transport app. `MDY` `FOSS`
+- [Transport You](https://github.com/you-apps/TransportYou) — An open-source public transport app. `MDY` `FOSS`
+- [CoMaps](https://github.com/comaps/comaps) — An open-source offline maps and navigation app. `MD` `FOSS` `FORK`
+- [Trail Sense](https://github.com/kylecorry31/Trail-Sense) — An open-source outdoor navigation and survival tool. `MD` `FOSS`
+- [EVMap](https://github.com/ev-map/EVMap) — An open-source map for electric vehicle charging stations. `MD` `FOSS`
+
+## Smart Devices
+
+- [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) — An open-source companion app for wearable devices. `MDY` `FOSS`
+- [KDE Connect](https://invent.kde.org/network/kdeconnect-android) — Connects Android devices with desktops and other devices. `MDY` `FOSS`
+- [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) — An open-source Android client for AdGuard Home. `MDY` `FOSS`
+- [My Server Status](https://github.com/JGeek00/server-status-android) — An Android app for monitoring server status. `MDY` `FOSS`
+
+## Emulators
+
+- [Lemuroid](https://github.com/Swordfish90/Lemuroid) — An open-source multi-system emulator frontend. `MDY` `FOSS`
+- [Dolphin Emulator](https://github.com/dolphin-emu/dolphin) — An open-source emulator for GameCube and Wii. `MDY` `FOSS`
+- [Lime3DS](https://github.com/Lime3DS/Lime3DS) — An open-source Nintendo 3DS emulator. `MDY` `FOSS`
+
+## Security & Link Tools
+
+- [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) — An open-source file and app hiding tool. `MDY` `FOSS`
+- [AstraCrypt](https://github.com/gromif/AstraCrypt) — An open-source file encryption app. `MDY` `FOSS`
+- [LinkSheet](https://github.com/1fexd/LinkSheet) — An open-source link handling and redirect tool. `MDY` `FOSS`
+- [Tarnhelm](https://github.com/lz233/Tarnhelm) — An open-source link cleaner. `MDY` `FOSS`
+- [Untracker](https://github.com/zhanghai/Untracker) — An open-source tool for removing tracking parameters from links. `MDY` `FOSS`
 
 ## File Managers
 
