@@ -9,6 +9,12 @@ Awesome Material Apps is an independent, community-driven directory for discover
 ## Contents
 
 - [Social & Communication](#social--communication)
+- [Streaming Clients](#streaming-clients)
+- [Media Tracking](#media-tracking)
+- [Games](#games)
+- [Automation & Sync](#automation--sync)
+- [Material Design Resources](#material-design-resources)
+- [Root & System Management](#root--system-management)
 - [Communication Tools](#communication-tools)
 - [Email](#email)
 - [Launchers](#launchers)
@@ -51,6 +57,25 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 ## Social & Communication
 
+### Reddit & Community
+
+- [Ilay for Reddit](https://github.com/bennybar/LuliReddit) — An open-source Reddit client. `MD3E` `FOSS`
+- [Infinity for Reddit](https://github.com/Docile-Alligator/Infinity-For-Reddit) — An open-source Reddit client. `MDY` `FOSS`
+- [Pineapple](https://github.com/galaxygoldfish/pineapple) — An open-source Reddit client. `MDY` `FOSS`
+- [Summit for Lemmy](https://github.com/idunnololz/summit-for-lemmy) — An open-source client for Lemmy communities. `MD3E` `FOSS`
+- [Raccoon for Lemmy](https://github.com/LiveFastEatTrashRaccoon/RaccoonForLemmy) — An open-source Lemmy client. `MDY` `FOSS`
+
+### Social Networks & Messaging
+
+- [Moshidon](https://github.com/LucasGGamerM/moshidon) — An open-source Mastodon client with additional features. `MDY` `FOSS` `FORK`
+- [MonoGram](https://github.com/monogram-android/monogram) — An open-source Telegram client. `MD3E` `FOSS`
+- [Cherrygram](https://github.com/arsLan4k1390/Cherrygram) — An open-source Telegram client. `MDY` `FOSS`
+- [OctoGram](https://github.com/OctoGramApp/OctoGram) — An open-source Telegram client. `MDY` `FOSS`
+- [PixEz Flutter](https://github.com/Notsfsssf/pixez-flutter) — An open-source Pixiv client. `MDY` `FOSS`
+- [Pixelix](https://github.com/ghostbyte-dev/pixelix) — An open-source Pixelfed client. `MDY` `FOSS`
+- [PixelDroid](https://github.com/H-PixelDroid/PixelDroid) — An open-source Pixelfed client. `MDY` `FOSS`
+
+
 - [Mastodon for Android](https://github.com/mastodon/mastodon-android) — The official Android client for the Mastodon social network. `MDY` `FOSS`
 - [Pachli](https://github.com/pachli/pachli-android) — A feature-rich Mastodon client. `MD` `FOSS`
 - [Jerboa](https://github.com/dessalines/jerboa) — An Android client for the Lemmy link aggregation platform. `MDY` `FOSS`
@@ -58,6 +83,61 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [FluffyChat](https://github.com/krille-chan/fluffychat) — A Matrix messaging client. `MDY` `FOSS`
 - [Signal](https://github.com/signalapp/Signal-Android) — Private messaging and calling. `MD` `FOSS`
 - [Molly](https://github.com/mollyim/mollyim-android) — A privacy-focused fork of Signal for Android. `MDY` `FOSS` `FORK`
+
+## Streaming Clients
+
+### Video & Online Media
+
+- [LibreTube](https://github.com/libre-tube/LibreTube) — An open-source alternative YouTube client. `MDY` `FOSS`
+- [Flow](https://github.com/A-EDev/Flow) — An open-source client for watching online video content. `MDY` `FOSS`
+- [Syncara](https://github.com/khaled-0/Syncara) — An open-source media streaming client. `MDY` `FOSS`
+- [Materialious](https://github.com/Materialious/Materialious) — A Material-styled frontend for Invidious. `MD` `FOSS`
+
+### Music Streaming
+
+- [Umihi Music](https://github.com/ilianoKokoro/umihi-music) — An open-source music streaming client. `MD3E` `FOSS`
+- [VIVI](https://github.com/vivizzz007/vivi-music) — An open-source music streaming app. `MD3E` `FOSS`
+- [Muzza](https://github.com/Maloy-Android/Muzza) — An open-source music streaming client. `MDY` `FOSS`
+- [SoundPod](https://github.com/arunnechully/SoundPod) — An open-source music streaming app. `MDY` `FOSS`
+- [Metrolist](https://github.com/mostafaalagamy/Metrolist) — An open-source music client based on another project. `MD3E` `FOSS` `FORK`
+- [OuterTune](https://github.com/DD3Boh/OuterTune) — An open-source music streaming client. `MDY` `FOSS` `FORK`
+- [Musify](https://github.com/gokadzev/Musify) — An open-source music streaming client. `MDY` `FOSS`
+- [Youamp](https://github.com/siper/Youamp) — An open-source music streaming app. `MDY` `FOSS`
+
+## Media Tracking
+
+- [AniSync](https://github.com/Marco-9456/AniSync) — An open-source app for synchronizing anime lists. `MD3E` `FOSS`
+- [Watch Master](https://github.com/PranshulGG/WatchMaster) — An open-source media tracking app. `MD3E` `FOSS`
+- [AniHyou](https://github.com/axiel7/AniHyou-android) — An open-source AniList client. `MDY` `FOSS`
+- [Animite](https://github.com/imashnake0/Animite) — An open-source anime tracking app. `MDY` `FOSS`
+- [MoeList](https://github.com/axiel7/MoeList) — An open-source anime and manga list client. `MDY` `FOSS`
+- [SeriesGuide](https://github.com/UweTrottmann/SeriesGuide) — An open-source TV and movie tracking app. `MDY` `FOSS`
+- [Movies](https://github.com/michaelbel/movies) — An open-source movie discovery app. `MDY` `FOSS`
+
+## Games
+
+- [Lichess](https://github.com/lichess-org/mobile) — The open-source mobile app for the Lichess chess platform. `MDY` `FOSS`
+- [Libre Sudoku](https://github.com/kaajjo/Libre-Sudoku) — An open-source Sudoku game. `MDY` `FOSS`
+- [Antimine](https://github.com/lucasnlm/antimine-android) — An open-source Minesweeper-style puzzle game. `MDY` `FOSS`
+- [New Quiz](https://github.com/joaomanaia/newquiz) — An open-source quiz game. `MDY` `FOSS`
+
+## Automation & Sync
+
+- [vFlow](https://github.com/Chaomixian/vFlow) — An open-source visual automation app. `MDY` `FOSS`
+- [Klick'r](https://github.com/Nain57/Smart-AutoClicker) — An open-source smart auto-clicker. `MDY` `FOSS`
+- [Round Sync](https://github.com/newhinton/Round-Sync) — An Android client for managing file synchronization with rclone. `MDY` `FOSS`
+
+## Material Design Resources
+
+- [MaterialGallery Android](https://github.com/NUmeroAndDev/MaterialGallery-android) — An app showcasing Material Design components and patterns. `MDY` `FOSS`
+- [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) — A tool for previewing Material You color palettes. `MDY` `FOSS`
+
+## Root & System Management
+
+- [Shizuku](https://github.com/RikkaApps/Shizuku) — An open-source service that lets supported apps use system APIs with elevated privileges. `MDY` `FOSS`
+- [KernelSU](https://github.com/tiann/KernelSU) — An open-source kernel-based root solution for Android. `MDY` `FOSS`
+- [APatch](https://github.com/bmax121/APatch) — An open-source kernel-based root solution. `MDY` `FOSS`
+- [MMRL](https://github.com/DerGoogler/MMRL) — An open-source manager for root modules. `MDY` `FOSS`
 
 ## Communication Tools
 
@@ -283,6 +363,10 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Neo Store](https://github.com/NeoApplications/Neo-Store) — An alternative F-Droid client with a modern Material interface. `MDY` `FOSS`
 
 ## Readers
+
+- [News](https://github.com/bubelov/news) — An open-source RSS and news reader. `MDY` `FOSS`
+- [Twine](https://github.com/msasikanth/twine) — An open-source RSS reader. `MDY` `FOSS`
+
 
 - [ReadYou](https://github.com/Ashinch/ReadYou) — An open-source RSS reader with a Material You design. `MDY` `FOSS`
 - [Feeder](https://github.com/spacecowboy/Feeder) — An open-source RSS reader for following news feeds. `MDY` `FOSS`
