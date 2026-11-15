@@ -1,4 +1,4 @@
-![Awesome Material Apps project preview](assets/image.webp)
+<img src="assets/image.webp" alt="Awesome Material Apps project preview" width="100%" style="border-radius: 12px;">
 
 # Awesome Material Apps
 
