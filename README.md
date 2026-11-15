@@ -1,7 +1,5 @@
 # Awesome Material Apps
 
-[Watch the project introduction video](assets/project-intro.mp4)
-
 A curated list of Android apps that use **Material Design 3**, **Material You**, and modern Material theming.
 
 ## About
