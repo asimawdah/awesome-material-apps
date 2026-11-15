@@ -1,0 +1,56 @@
+name: Import project introduction video
+
+on:
+  push:
+    branches:
+      - docs/add-project-intro-video-2026-11-15
+    paths:
+      - .github/workflows/import-project-intro-video.yml
+
+permissions:
+  contents: write
+
+jobs:
+  import-video:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out pull request branch
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref_name }}
+
+      - name: Download and validate the supplied MP4
+        env:
+          VIDEO_URL: https://firebasestorage.googleapis.com/v0/b/design-spec/o/projects%2Fm3%2Fimages%2Fmoic2mcz-blog_video4.mp4?alt=media
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          curl --fail --location --retry 3 --retry-delay 2 --silent --show-error "$VIDEO_URL" --output assets/project-intro.mp4
+          python - <<'PY'
+          from pathlib import Path
+
+          video = Path("assets/project-intro.mp4")
+          size = video.stat().st_size
+          with video.open("rb") as stream:
+              header = stream.read(12)
+
+          if len(header) < 12 or header[4:8] != b"ftyp":
+              raise SystemExit("Downloaded file is not a valid ISO Base Media / MP4 file.")
+          if size == 0 or size > 100 * 1024 * 1024:
+              raise SystemExit(f"Unexpected video size: {size} bytes (limit: 100 MiB).")
+
+          print(f"Validated MP4: {size} bytes")
+          PY
+
+      - name: Commit the video into the repository branch
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/project-intro.mp4
+          if git diff --cached --quiet; then
+            echo "The video file is already present; nothing to commit."
+            exit 0
+          fi
+          git commit -m "assets: add project introduction video"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
