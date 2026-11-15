@@ -1,4 +1,4 @@
-![Awesome Material Apps project preview](assets/image.png)
+![Awesome Material Apps project preview](assets/image.webp)
 
 # Awesome Material Apps
 
