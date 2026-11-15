@@ -1,3 +1,5 @@
+![Awesome Material Apps project preview](https://media.canva.com/v2/files/uri:ifs%3A%2F%2FV%2F9VcSA3_Hlwe-PmqgGH8tHgQPk3IAUKGi4gqU8qWENJo.jpg?csig=AAAAAAAAAAAAAAAAAAAAAGJJgsSPZDytoPlsJUb3falUE239aREpR1Rm1-UeO-eq&exp=1794713340&signer=video-rpc&token=AAIAAVYALzlWY1NBM19IbHdlLVBtcWdHSDh0SGdRUGszSUFVS0dpNGdxVThxV0VOSm8uanBnAAAAAAGh3UBIYOWFQjdYBQBbkuDX4XfZAzPIrtBLbu7DbWMPr3JeLSoB)
+
 # Awesome Material Apps
 
 A curated list of Android apps that use **Material Design 3**, **Material You**, and modern Material theming.
