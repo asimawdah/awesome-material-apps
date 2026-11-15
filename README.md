@@ -1,3 +1,5 @@
+![Awesome Material Apps project preview](assets/image.webp)
+
 # Awesome Material Apps
 
 A curated list of Android apps that use **Material Design 3**, **Material You**, and modern Material theming.
