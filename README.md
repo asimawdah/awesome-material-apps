@@ -139,6 +139,7 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 - [MaterialGallery Android](https://github.com/NUmeroAndDev/MaterialGallery-android) — An app showcasing Material Design components and patterns. `MDY` `FOSS`
 - [Monet Color Previewer](https://github.com/Smooth-E/monet-color-previewer) — A tool for previewing Material You color palettes. `MDY` `FOSS`
+- [Adaptive Theme](https://github.com/xLexip/Adaptive-Theme) — An open-source utility that switches Android light/dark mode using ambient light and can synchronize wallpapers, with Material You theming. `MDY` `FOSS`
 
 ## Root & System Management
 
@@ -191,11 +192,14 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Auxio](https://github.com/OxygenCobalt/Auxio) — A lightweight local music player. `MDY` `FOSS`
 - [Fossify Music Player](https://github.com/FossifyOrg/Music-Player) — A privacy-friendly local music player. `MDY` `FOSS`
 - [Gramophone](https://github.com/AkaneTan/Gramophone) — An open-source local music player. `MDY` `FOSS`
+- [SuvMusic](https://github.com/suvojeet-sengupta/SuvMusic) — An open-source Android music app with local and streamed playback, Material 3 UI, and Material You dynamic colors. `MDY` `FOSS`
 
 ## Video Players
 
 - [Next Player](https://github.com/anilbeesetti/nextplayer) — An open-source video player. `MDY` `FOSS`
 - [mpvEx](https://github.com/marlboro-advance/mpvEx) — An mpv-based Android video player. `MD3E` `FOSS`
+- [Aperture](https://github.com/XDanfr/Aperture) — An open-source Android TV media player with Material 3 Expressive UI and Material You dynamic color support. `MD3E` `FOSS`
+- [Asuka Player](https://github.com/qianmokano/Asukaplayer) — An open-source local video player built with Jetpack Compose, Material 3, and Android dynamic color theming. `MDY` `FOSS`
 
 ## Notes & Tasks
 
@@ -289,6 +293,7 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [RebootNya](https://github.com/daisukiKaffuChino/RebootNya) — An open-source reboot and device utility. `MD` `FOSS`
 - [LibChecker](https://github.com/LibChecker/LibChecker) — An open-source app for inspecting libraries used by Android apps. `MDY` `FOSS`
 - [Data Monitor](https://github.com/itsdrnoob/DataMonitor) — An open-source network usage monitor. `MDY` `FOSS`
+- [Fern](https://github.com/wized2/Fern) — An open-source offline system monitor for Android, covering CPU, memory, battery, thermals, and network activity with Material You theming. `MDY` `FOSS`
 
 ## Document Scanning & Reading
 
@@ -316,6 +321,8 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [kitshn](https://github.com/aimok04/kitshn) — An open-source client for the Mealie recipe manager. `MDY` `FOSS`
 - [KitchenOwl](https://github.com/tombursch/kitchenowl) — An open-source shopping list and recipe manager. `MDY` `FOSS`
 - [FoodYou](https://github.com/maksimowiczm/FoodYou) — An open-source food and nutrition tracking app. `MDY` `FOSS`
+- [Algidy](https://github.com/NhuHuy-79/Algidy) — An open-source food-expiry tracker with barcode scanning, freshness analytics, and Material 3 Expressive UI. `MD3E` `FOSS`
+- [Deliveries](https://github.com/itsvic-dev/deliveries) — An open-source parcel tracker for multiple carriers with Material 3 and Android dynamic color support. `MDY` `FOSS`
 
 ## VPN & Privacy
 
@@ -403,6 +410,7 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android) — An open-source multi-function calculator. `MDY` `FOSS`
 - [Unitto](https://github.com/sadellie/unitto) — A calculator and unit converter in one app. `MDY` `FOSS`
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc) — An open-source calculator with a Material You interface. `MDY` `FOSS`
+- [Calculator M3](https://github.com/gergelyvagujhelyi/CalculatorM3) — An open-source calculator with Material 3, wallpaper-based dynamic colors, and an optional on-device AI math solver. `MDY` `FOSS`
 
 ## Password Managers
 
