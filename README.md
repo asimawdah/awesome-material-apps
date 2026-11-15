@@ -150,12 +150,16 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [APatch](https://github.com/bmax121/APatch) — An open-source kernel-based root solution. `MDY` `FOSS`
 - [MMRL](https://github.com/DerGoogler/MMRL) — An open-source manager for root modules. `MDY` `FOSS`
 
+- [MKM (Minimal Kernel Manager)](https://github.com/zenithblue-oss/mkm) — An open-source Android kernel manager and system monitor with root or Shizuku support. `MDY` `FOSS`
+
 ## Communication Tools
 
 - [Connect You](https://github.com/you-apps/ConnectYou) — An open-source contacts and communication app. `MDY` `FOSS`
 - [Fossify Contacts](https://github.com/FossifyOrg/Contacts) — A privacy-friendly contacts manager. `MDY` `FOSS`
 - [Fossify Phone](https://github.com/FossifyOrg/Phone) — An open-source phone and dialer app. `MDY` `FOSS`
 - [Fossify Messages](https://github.com/FossifyOrg/Messages) — An open-source SMS messenger. `MDY` `FOSS`
+
+- [Bubble Notice](https://github.com/GraceThings/bubble-notice-android) — An open-source Android utility that displays supported app notifications as persistent bubbles. `MDY` `FOSS`
 
 ## Email
 
@@ -241,6 +245,8 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [RikkaHub](https://github.com/rikkahub/rikkahub) — An open-source AI chat client supporting multiple providers. `MDY` `FOSS`
 - [AI Hub](https://github.com/SilentCoderHere/aihub) — An open-source AI chat application. `MDY` `FOSS`
 
+- [Trending AI](https://github.com/HarlonWang/TrendingAI) — An open-source app that curates GitHub Trending, Hacker News, and Product Hunt with AI summaries. `MD` `FOSS`
+
 ## Translators
 
 - [Translate You](https://github.com/you-apps/TranslateYou) — An open-source translation app. `MDY` `FOSS`
@@ -303,6 +309,8 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Areada](https://github.com/iTsMe-Zen/Areada) — An open-source document and reading app. `MDY` `FOSS`
 - [Episteme Reader](https://github.com/Aryan-Raj3112/episteme) — An open-source document reader. `MDY` `FOSS`
 
+- [PDF Toolkit](https://github.com/Karna14314/Pdf_Tools) — An open-source offline PDF toolkit for scanning, editing, annotating, and converting documents on Android. `MDY` `FOSS`
+
 ## Education
 
 - [freeDictionaryApp](https://github.com/yamin8000/freeDictionaryApp) — An open-source dictionary app. `MDY` `FOSS`
@@ -330,6 +338,8 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 - [sing-box](https://github.com/SagerNet/sing-box) — A universal proxy platform with an Android client. `MDY` `FOSS`
 - [Proton VPN](https://github.com/ProtonVPN/android-app) — An open-source VPN app. `MD` `FOSS`
+
+- [Chameleon](https://github.com/Rabkaps/Chameleon) — An open-source cross-platform VPN client for Android and desktop, powered by sing-box. `MD3E` `FOSS`
 
 ## Download Managers
 
