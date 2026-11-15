@@ -52,6 +52,10 @@ Awesome Material Apps is an independent, community-driven directory for discover
 - [Weather](#weather)
 - [Calculators](#calculators)
 - [Password Managers](#password-managers)
+- [2FA Authenticators](#2fa-authenticators)
+- [Health & Fitness](#health--fitness)
+- [Counters](#counters)
+- [Audio Equalizers](#audio-equalizers)
 - [Design Tags](#design-tags)
 - [Contributing](#contributing)
 
@@ -106,6 +110,9 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 ## Media Tracking
 
+- [Pano Scrobbler](https://github.com/kawaiiDango/pScrobbler) — An open-source music scrobbling client. `MDY` `FOSS`
+- [Movie DB](https://github.com/WirelessAlien/MovieDB) — An open-source movie discovery and tracking app. `MDY` `FOSS`
+- [Showly](https://github.com/trakt/showly) — An open-source TV show and movie tracker. `MD` `FOSS`
 - [AniSync](https://github.com/Marco-9456/AniSync) — An open-source app for synchronizing anime lists. `MD3E` `FOSS`
 - [Watch Master](https://github.com/PranshulGG/WatchMaster) — An open-source media tracking app. `MD3E` `FOSS`
 - [AniHyou](https://github.com/axiel7/AniHyou-android) — An open-source AniList client. `MDY` `FOSS`
@@ -123,6 +130,7 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 ## Automation & Sync
 
+- [EasySync](https://github.com/phpbg/easysync) — An open-source file synchronization utility. `MD` `FOSS`
 - [vFlow](https://github.com/Chaomixian/vFlow) — An open-source visual automation app. `MDY` `FOSS`
 - [Klick'r](https://github.com/Nain57/Smart-AutoClicker) — An open-source smart auto-clicker. `MDY` `FOSS`
 - [Round Sync](https://github.com/newhinton/Round-Sync) — An Android client for managing file synchronization with rclone. `MDY` `FOSS`
@@ -333,6 +341,10 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 ## Smart Devices
 
+- [AirSync](https://github.com/sameerasw/airsync-android) — An open-source companion app for connecting devices and sharing files. `MD3E` `FOSS`
+- [Tellyscope](https://github.com/man15h/tellyscope) — An open-source Android TV remote and discovery app. `MD3E` `FOSS`
+- [Octi](https://github.com/d4rken-org/octi) — An open-source companion app for managing supported devices. `MD` `FOSS`
+- [CAPod](https://github.com/d4rken-org/capod) — An open-source companion app for AirPods on Android. `MD` `FOSS`
 - [Gadgetbridge](https://codeberg.org/Freeyourgadget/Gadgetbridge) — An open-source companion app for wearable devices. `MDY` `FOSS`
 - [KDE Connect](https://invent.kde.org/network/kdeconnect-android) — Connects Android devices with desktops and other devices. `MDY` `FOSS`
 - [AdGuard Home Manager](https://github.com/JGeek00/adguard-home-manager) — An open-source Android client for AdGuard Home. `MDY` `FOSS`
@@ -346,6 +358,9 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 ## Security & Link Tools
 
+- [Permission Pilot](https://github.com/d4rken-org/permission-pilot) — An open-source app for inspecting and managing Android app permissions. `MD` `FOSS`
+- [AirGuard](https://github.com/seemoo-lab/AirGuard) — An open-source app that detects unwanted Bluetooth tracking devices. `MDY` `FOSS`
+- [Basic Call Recorder](https://github.com/chenxiaolong/BCR) — An open-source call recording app for supported Android devices. `MDY` `FOSS`
 - [Amarok Hider](https://github.com/deltazefiro/Amarok-Hider) — An open-source file and app hiding tool. `MDY` `FOSS`
 - [AstraCrypt](https://github.com/gromif/AstraCrypt) — An open-source file encryption app. `MDY` `FOSS`
 - [LinkSheet](https://github.com/1fexd/LinkSheet) — An open-source link handling and redirect tool. `MDY` `FOSS`
@@ -373,17 +388,55 @@ Awesome Material Apps is an independent, community-driven directory for discover
 
 ## Weather
 
+- [WeatherMaster](https://github.com/PranshulGG/WeatherMaster) — An open-source weather forecast app. `MDY` `FOSS`
+- [WeatherWise](https://github.com/MGAndroidProjects/WeatherWise-Releases) — A Material You weather app. `MDY`
+- [Overmorrow](https://github.com/bmaroti9/Overmorrow) — An open-source weather forecast app. `MDY` `FOSS`
+- [GeoWeather](https://github.com/FreetimeMaker/GeoWeather) — An open-source weather app. `MDY` `FOSS`
+- [Rain](https://github.com/DarkMooNight/Rain) — An open-source weather app. `MD` `FOSS`
 - [Breezy Weather](https://github.com/breezy-weather/breezy-weather) — An open-source, feature-rich weather app. `MDY` `FOSS`
 - [Bura](https://github.com/davidtakac/bura) — An open-source weather app with a clean Material interface. `MDY` `FOSS`
 
 ## Calculators
 
+- [Vanilla](https://github.com/sosauce/Vanilla) — An open-source calculator. `MD3E` `FOSS`
+- [Currencies](https://github.com/sal0max/currencies) — An open-source currency converter. `MDY` `FOSS`
+- [Multi Calculator](https://github.com/YangDai-Github/Multi-Calculator-Android) — An open-source multi-function calculator. `MDY` `FOSS`
 - [Unitto](https://github.com/sadellie/unitto) — A calculator and unit converter in one app. `MDY` `FOSS`
 - [OpenCalc](https://github.com/Darkempire78/OpenCalc) — An open-source calculator with a Material You interface. `MDY` `FOSS`
 
 ## Password Managers
 
 - [OpenKey](https://github.com/OpenSelfHosting/OpenKey) — An open-source, self-hosted password manager with an encrypted offline vault and optional self-hosted sync. Its Flutter app uses Material 3 ([theme implementation](https://github.com/OpenSelfHosting/OpenKey/blob/main/lib/src/core/theme/app_theme.dart)). `MD` `FOSS`
+
+## 2FA Authenticators
+
+- [Tokn](https://github.com/tokn-authenticator/tokn) — An open-source two-factor authentication app. `MD3E` `FOSS`
+- [Stratum](https://github.com/stratumauth/app) — An open-source authenticator for generating one-time codes. `MDY` `FOSS`
+- [Mauth](https://github.com/X1nto/Mauth) — An open-source two-factor authentication app. `MDY` `FOSS`
+- [Aegis Authenticator](https://github.com/beemdevelopment/Aegis) — An open-source authenticator with encrypted vault storage. `MDY` `FOSS`
+- [Yubico Authenticator](https://github.com/Yubico/yubioath-flutter) — An open-source authenticator for YubiKey devices. `MD` `FOSS`
+- [2FAS for Android](https://github.com/twofas/2fas-android) — An open-source two-factor authentication app. `MD` `FOSS`
+
+## Health & Fitness
+
+- [Caffeine Health](https://github.com/ohuc/CaffeineHealth) — An open-source caffeine intake tracker. `MD3E` `FOSS`
+- [LibreFit](https://github.com/LibreFitOrg/LibreFit) — An open-source fitness and health tracking app. `MD3E` `FOSS`
+- [Trainable](https://github.com/Emanuel5014/Trainable) — An open-source workout tracking app. `MD3E` `FOSS`
+- [Flexify](https://github.com/brandonp2412/Flexify) — An open-source exercise and fitness tracker. `MDY` `FOSS`
+- [Just Another Workout Timer](https://github.com/blockbasti/just_another_workout_timer) — An open-source interval timer for workouts. `MDY` `FOSS`
+- [wger](https://github.com/wger-project/flutter) — An open-source fitness and workout management app. `MD` `FOSS`
+- [Weight Tracker](https://github.com/AdityaHebballe/Weight-Tracker) — An open-source weight tracking app. `MD3E` `FOSS`
+- [Table Habit](https://github.com/FriesI23/mhabit) — An open-source habit tracker. `MDY` `FOSS`
+- [Habo](https://github.com/xpavle00/Habo) — An open-source habit tracking app. `MD` `FOSS`
+
+## Counters
+
+- [Simple Counter](https://github.com/quicksc0p3r/simplecounter) — An open-source tally counter. `MDY` `FOSS`
+- [Decisioninja](https://github.com/Giuig/decisioninja) — An open-source decision helper with a counter-style interface. `MDY` `FOSS`
+
+## Audio Equalizers
+
+- [RootlessJamesDSP](https://github.com/thepbone/RootlessJamesDSP) — An open-source audio processing and equalizer app for Android. `MDY` `FOSS`
 
 ## Design Tags
 
